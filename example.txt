@@ -1,0 +1,3 @@
+Hello! this line is writen using the write mode.
+Python makes file handling easy.
+This line was added using append mode.
